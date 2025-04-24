@@ -58,6 +58,12 @@
       ]
     },
     {
+      "url": "/user",
+      "name": "Email",
+      "icon": "menu-icon tf-icons bx bx-envelope",
+      "slug": "app-email"
+    },
+    {
       "name": "Layouts",
       "icon": "menu-icon tf-icons bx bx-layout",
       "slug": "layouts",
